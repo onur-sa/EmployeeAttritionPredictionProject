@@ -6,5 +6,5 @@ Throughout this study, I tried to share the information I gained, the inferences
 
 Çalışan yıpranma tahmini projesi
 
-Bu proje bir şirkette bulunan çalışanların vermiş oldukları çeşitli bilgilere dayanarak yıpranma seviyelerini veren bir yapay zeka modeli tasarlama amacı ile yapıldı.(Detaylı Açıklama notebook dosyasında)
+Bu proje bir şirkette bulunan çalışanların vermiş oldukları çeşitli bilgilere dayanarak yıpranma seviyelerini veren bir yapay zeka modeli tasarlama amacı ile yapıldı.(Detaylı Acıklama notebook dosyasında)
 Bütün bu çalışma boyunca edindiğim bilgileri kod bloklarının çevresinde Türkçe ve İngilizce olarak paylaşmaya çalıştım. Umarım okuyanlar kendine faydalı bilgiler katabilirler.
